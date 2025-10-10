@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop ASUS ROG Strix G16 G615LR-S5289W",
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/t/e/text_ng_n_2__10_36.png",
+    "price": 53990000,
+    "cate_id": 1
+  },
+  {
+    "id": 2,
+    "name": "MacBook Pro 16 inch M3 Max",
+    "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/444/581/products/1-6d8ef4a6-01b5-45fd-906c-272cf0d27a9d-bea26076-46a2-4edb-b69b-4087a5fa6844-8983484b-ddbc-46ea-b13e-29586d358501-11dd4b37-d8f0-489c-94d3-ee36f7f0443f-bcc4987d-4c2e-4a2c-a144-2123b6f50339.png?v=1734923193447",
+    "price": 65500000,
+    "cate_id": 1
+  },
+  {
+    "id": 3,
+    "name": "iPhone 16 128GB",
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-16-3.png",
+    "price": 20890000,
+    "cate_id": 2
+  },
+  {
+    "id": 4,
+    "name": "iPhone 17 Pro Max 256GB",
+    "image": "https://24hstore.vn/images/products/2025/09/11/original/iphone-17-pro-max-cam-nb_1757564962.jpg",
+    "price": 37590000,
+    "cate_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Nubia Z70 Ultra 5G 12GB 256GB",
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/d/i/dien-thoai-nubia-z70s-ultra-5g_11__2.png",
+    "price": 17990000,
+    "cate_id": 2
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy Tab S11 Wifi 12GB 128GB",
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/a/may-tinh-bang-samsung-galaxy-tab-s11-6_2.jpg",
+    "price": 18990000,
+    "cate_id": 3
+  },
+  {
+    "id": 7,
+    "name": "Samsung Galaxy Tab S10 FE Wifi 8GB 128GB",
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/m/a/may-tinh-bang-samsung-galaxy-tab-s10-fe_15__1.png",
+    "price": 10590000,
+    "cate_id": 3
+  }
+]
